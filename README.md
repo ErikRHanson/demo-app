@@ -13,6 +13,3 @@ To run the application:
 # Demo App
 
 This is a change to the README.md
-
-Removing the previous change. 
-
