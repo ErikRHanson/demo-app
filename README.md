@@ -10,3 +10,5 @@ To run the application:
 * run `http-server` in application's root directory
 * navigate to `http://localhost:8080/html/home.html`
 
+# Demo App
+
